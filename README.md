@@ -31,9 +31,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](<https://choosealicense.com/licenses/mit/>)
 
-## Proje-2 Resim
-
-![proje2](img/repo.png)
-
 ## Patika
 [Patika](<www.patika.dev>)
+
+## Proje-2 Resim
+![proje2](img/repo.png)
+
