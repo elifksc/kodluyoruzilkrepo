@@ -34,3 +34,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Proje-2 Resim
 
 ![proje2](img/repo.png)
+
+## Patika
+[Patika](<www.patika.dev>)
