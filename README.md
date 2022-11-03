@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Proje-2 Resim
 
-![proje2](img/PROJE-2.jpeg)
+![proje2](img/repo.png)
