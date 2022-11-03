@@ -31,3 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](<https://choosealicense.com/licenses/mit/>)
 
+## Proje-2 Resim
+
+![proje2](img/PROJE-2.jpeg)
